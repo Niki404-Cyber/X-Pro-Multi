@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("max").__niki__()
+    __import__("fucking2").__niki__()
 except Exception as e:
     exit(str(e))
